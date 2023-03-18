@@ -10,6 +10,12 @@ namespace ConsoleAppRecuperoVerifica
     {
         static void Main(string[] args)
         {
+
+            //kqwurygt
+
+            //akjgflawgf
+
+            //.azkdjfghbjbv
         }
     }
 }
