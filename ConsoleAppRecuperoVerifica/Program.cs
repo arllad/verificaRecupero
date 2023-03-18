@@ -11,6 +11,8 @@ namespace ConsoleAppRecuperoVerifica
 
         //kajgfalgflaegfldagvlhbgdlahbgleg
 
+        //alkuejhgfalk<eghfaloue<gaoligual<ghaeiluhg<aek
+
         static void Main(string[] args)
         {
 
