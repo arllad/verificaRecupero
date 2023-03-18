@@ -22,5 +22,13 @@ namespace ConsoleAppRecuperoVerifica
 
             //.azkdjfghbjbv
         }
+
+        class scuola
+        {
+            string nome;
+            string indirizzo;
+            string apertura;
+            string chiusura;
+        }
     }
 }
